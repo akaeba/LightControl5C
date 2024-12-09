@@ -14,25 +14,25 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 
 
 ## Pinning
-| Port     | Usage                                                           |
-| -------- | --------------------------------------------------------------- |
-| X1       | positive input supply, max. DC28V                               |
-| X2       | negative input supply (GND)                                     |
-| X3       | ICSP programming                                                |
-| X4       | GND                                                             |
-| X5       | open-drain uC output (GP0)                                      |
-| X6       | open-drain uC output (GP1)                                      |
-| X7       | open-drain uC output (GP2)                                      |
-| X8       | open-drain uC output (GP4)                                      |
-| X9       | open-drain uC output (GP5)                                      |
-| X10, X11 | positive supply for X5-X9, value via R<sub>FBT</sub> adjustable |
+| Port     | Usage                                                             |
+| -------- | ----------------------------------------------------------------- |
+| X1       | positive input supply, max. 28V, DC-only                          |
+| X2       | negative input supply (GND)                                       |
+| X3       | ICSP programming                                                  |
+| X4       | GND                                                               |
+| X5       | open-drain uC output (GP0)                                        |
+| X6       | open-drain uC output (GP1)                                        |
+| X7       | open-drain uC output (GP2)                                        |
+| X8       | open-drain uC output (GP4)                                        |
+| X9       | open-drain uC output (GP5)                                        |
+| X10, X11 | positive supply for X5-X9, voltage via R<sub>FBT</sub> adjustable |
 
 
 ## How to build
 * Get [PCB](https://aisler.net/p/RHHJMNNA) from [Aisler](https://aisler.net)
 * Order Components from:
   - [Reichelt](/bom/LightControl5C_Reichelt.csv)
-  - [Mouser](/bom/LightControl5C_Mouser.xls)
+  - [Mouser](/bom/LightControl5C_Mouser.csv)
 
 
 ## Gallery
