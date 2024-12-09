@@ -1,0 +1,12 @@
+# Eagle
+#
+eagle/*.s#?
+eagle/*.b#?
+eagle/*.l#?
+eagle/*.b$?
+eagle/*.s$?
+eagle/*.l$?
+eagle/*.s#*
+eagle/*.b#*
+eagle/*.lck
+eagle/eagle.epf
