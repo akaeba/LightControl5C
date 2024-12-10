@@ -40,7 +40,7 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 <tr>
 <td> <img src="/doc/readme/pic1.jpg"    height="35%" width="35%" alt="Picture PCB Top site"         title="LightControl5C Top site"/> </td>
 <td> <img src="/doc/readme/pic2.jpg"    height="35%" width="35%" alt="Picture PCB Bottom site"      title="LightControl5C Bottom site"/> </td>
-<td> <img src="/doc/readme/pic2.jpg"    height="35%" width="35%" alt="Picture PCB with components"  title="Assembled components on LightControl5C"/> </td>
+<td> <img src="/doc/readme/pic3.jpg"    height="35%" width="35%" alt="Picture PCB with components"  title="Assembled components on LightControl5C"/> </td>
 </tr>
 
 
