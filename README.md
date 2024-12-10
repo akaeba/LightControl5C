@@ -11,6 +11,7 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 * up to 20V output voltage
 * inductive load capable
 * ICSP programming interface
+* 44mm x 27mm overall size
 
 
 ## Pinning
@@ -36,7 +37,10 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 
 
 ## Gallery
-
+<tr>
+<td> <img src="/doc/readme/pic1.jpg"    height="35%" width="35%" alt="Picture PCB Top site"     title="LightControl5C Top site"/> </td>
+<td> <img src="/doc/readme/pic2.jpg"    height="35%" width="35%" alt="Picture PCB Bottom site"  title="LightControl5C Bottom site"/> </td>
+</tr>
 
 
 ## References
