@@ -9638,6 +9638,32 @@ Set VDD level via RFBT according VLED count</text>
 <text x="48.26" y="124.714" size="1.778" layer="98">22u</text>
 <text x="33.02" y="124.714" size="1.778" layer="98">120k</text>
 <wire x1="42.418" y1="125.73" x2="43.942" y2="125.73" width="0.1524" layer="98"/>
+<text x="17.272" y="122.174" size="1.778" layer="98">16V</text>
+<text x="24.638" y="122.174" size="1.778" layer="98">330k</text>
+<text x="48.26" y="122.174" size="1.778" layer="98">33u</text>
+<text x="40.64" y="122.174" size="1.778" layer="98">330k</text>
+<wire x1="34.798" y1="123.19" x2="36.322" y2="123.19" width="0.1524" layer="98"/>
+<text x="81.788" y="111.506" size="1.778" layer="98">L</text>
+<text x="83.566" y="111.252" size="1.016" layer="98">MIN</text>
+<text x="86.868" y="111.506" size="1.778" layer="98">=</text>
+<text x="89.662" y="112.268" size="1.778" layer="98">V</text>
+<text x="91.44" y="112.014" size="1.016" layer="98">IN,MAX</text>
+<text x="96.266" y="109.728" size="1.778" layer="98">I</text>
+<text x="97.536" y="109.474" size="1.016" layer="98">OUT</text>
+<wire x1="89.408" y1="111.76" x2="103.378" y2="111.76" width="0.1524" layer="98"/>
+<wire x1="96.774" y1="112.776" x2="97.536" y2="112.776" width="0.1524" layer="98"/>
+<text x="98.552" y="112.268" size="1.778" layer="98">V</text>
+<text x="100.33" y="112.014" size="1.016" layer="98">OUT</text>
+<text x="90.932" y="109.728" size="1.778" layer="98">0.4</text>
+<text x="94.996" y="110.49" size="1.778" layer="98">.</text>
+<wire x1="105.664" y1="111.76" x2="122.428" y2="111.76" width="0.1524" layer="98"/>
+<text x="112.268" y="112.268" size="1.778" layer="98">V</text>
+<text x="114.046" y="112.014" size="1.016" layer="98">OUT</text>
+<text x="113.284" y="110.49" size="1.778" layer="98">.</text>
+<text x="105.918" y="109.728" size="1.778" layer="98">V</text>
+<text x="107.696" y="109.474" size="1.016" layer="98">IN,MAX</text>
+<text x="114.3" y="109.728" size="1.778" layer="98">1.1MHz</text>
+<text x="104.14" y="111.506" size="1.778" layer="98">.</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
