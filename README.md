@@ -30,7 +30,8 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 
 
 ## How to build
-* Get [PCB](https://aisler.net/p/RHHJMNNA) from [Aisler](https://aisler.net)
+* Get your PCB:
+  - [Aisler](https://aisler.net/p/RHHJMNNA)
 * Order Components from:
   - [Reichelt](/bom/LightControl5C_Reichelt.csv)
   - [Mouser](/bom/LightControl5C_Mouser.csv)
@@ -42,6 +43,12 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 <td> <img src="/doc/readme/pic2.jpg"    height="35%" width="35%" alt="Picture PCB Bottom site"      title="LightControl5C Bottom site"/> </td>
 <td> <img src="/doc/readme/pic3.jpg"    height="35%" width="35%" alt="Picture PCB with components"  title="Assembled components on LightControl5C"/> </td>
 </tr>
+
+
+## Tooling
+* PCB and schematic: [Eagle 7.7](http://eagle.autodesk.com/eagle/software-versions/1)
+* Compiler: [MikroC Pro for PIC 7.1](https://download.mikroe.com/setups/compilers/mikroc/pic/mikroc-pic-setup-v710.zip)
+* Programmer: [PicKit2](https://www.microchip.com/en-us/development-tool/pg164120) - check also the clone vendors ;-)
 
 
 ## References
