@@ -9176,7 +9176,8 @@ Source: AVX .. aphvc.pdf</description>
 <sheet>
 <plain>
 <text x="5.08" y="10.16" size="1.778" layer="98">http://www.sprut.de/electronic/pic/icsp/icsp.htm
-https://www.ti.com/lit/ds/symlink/lv3842.pdf</text>
+https://www.ti.com/lit/ds/symlink/lv3842.pdf
+https://github.com/akaeba/LightControl5C</text>
 <text x="75.184" y="55.88" size="1.9304" layer="98" rot="R90">ICSP Interface</text>
 <wire x1="76.2" y1="73.66" x2="76.2" y2="55.88" width="0.1524" layer="94"/>
 <wire x1="76.2" y1="55.88" x2="80.518" y2="55.88" width="0.1524" layer="94"/>
@@ -9228,19 +9229,19 @@ protection</text>
 <wire x1="205.74" y1="114.3" x2="175.26" y2="114.3" width="0.1524" layer="98" style="longdash"/>
 <text x="175.26" y="48.26" size="1.778" layer="98">Led strips between terminals need proper RV value
 Set VDD level via RFBT according VLED count</text>
-<text x="16.256" y="129.794" size="1.778" layer="98">VDD</text>
-<text x="24.638" y="129.794" size="1.778" layer="98">R</text>
-<text x="26.416" y="129.54" size="1.016" layer="98">FBT</text>
-<wire x1="22.86" y1="132.08" x2="22.86" y2="116.84" width="0.1524" layer="98"/>
-<wire x1="15.24" y1="129.54" x2="53.34" y2="129.54" width="0.1524" layer="98"/>
-<wire x1="30.48" y1="132.08" x2="30.48" y2="116.84" width="0.1524" layer="98"/>
-<wire x1="30.988" y1="132.08" x2="30.988" y2="116.84" width="0.1524" layer="98"/>
-<text x="33.02" y="129.794" size="1.778" layer="98">R2</text>
-<text x="40.64" y="129.794" size="1.778" layer="98">R4</text>
-<text x="48.26" y="129.794" size="1.778" layer="98">L1</text>
-<text x="17.272" y="127.254" size="1.778" layer="98">5V</text>
-<text x="24.638" y="127.254" size="1.778" layer="98">88k</text>
-<text x="48.26" y="127.254" size="1.778" layer="98">22u</text>
+<text x="8.636" y="129.794" size="1.778" layer="98">VDD</text>
+<text x="17.018" y="129.794" size="1.778" layer="98">R</text>
+<text x="18.796" y="129.54" size="1.016" layer="98">FBT</text>
+<wire x1="15.24" y1="132.08" x2="15.24" y2="116.84" width="0.1524" layer="98"/>
+<wire x1="7.62" y1="129.54" x2="66.04" y2="129.54" width="0.1524" layer="98"/>
+<wire x1="25.4" y1="132.08" x2="25.4" y2="116.84" width="0.1524" layer="98"/>
+<wire x1="25.908" y1="132.08" x2="25.908" y2="116.84" width="0.1524" layer="98"/>
+<text x="27.94" y="129.794" size="1.778" layer="98">R2</text>
+<text x="35.56" y="129.794" size="1.778" layer="98">R4</text>
+<text x="43.18" y="129.794" size="1.778" layer="98">L1</text>
+<text x="9.652" y="127.254" size="1.778" layer="98">5V</text>
+<text x="17.018" y="127.254" size="1.778" layer="98">88k</text>
+<text x="43.18" y="127.254" size="1.778" layer="98">22u</text>
 <wire x1="175.26" y1="119.38" x2="177.8" y2="119.38" width="0.3048" layer="98"/>
 <wire x1="193.04" y1="110.49" x2="200.66" y2="110.49" width="0.3048" layer="98"/>
 <wire x1="193.04" y1="107.95" x2="193.04" y2="110.49" width="0.3048" layer="98"/>
@@ -9602,8 +9603,8 @@ Set VDD level via RFBT according VLED count</text>
 <wire x1="189.484" y1="61.722" x2="188.722" y2="61.976" width="0.1524" layer="98"/>
 <wire x1="188.722" y1="61.976" x2="188.976" y2="61.214" width="0.1524" layer="98"/>
 <wire x1="188.976" y1="61.214" x2="189.23" y2="61.468" width="0.1524" layer="98"/>
-<text x="33.02" y="127.254" size="1.778" layer="98">120k</text>
-<text x="40.64" y="127.254" size="1.778" layer="98">330k</text>
+<text x="27.94" y="127.254" size="1.778" layer="98">120k</text>
+<text x="35.56" y="127.254" size="1.778" layer="98">330k</text>
 <wire x1="165.1" y1="52.07" x2="152.4" y2="52.07" width="0.1524" layer="98"/>
 <wire x1="152.4" y1="52.07" x2="153.416" y2="53.086" width="0.1524" layer="98"/>
 <wire x1="153.416" y1="53.086" x2="153.416" y2="51.054" width="0.1524" layer="98"/>
@@ -9633,16 +9634,16 @@ Set VDD level via RFBT according VLED count</text>
 <text x="94.742" y="119.888" size="1.778" layer="98">R</text>
 <text x="96.52" y="119.634" size="1.016" layer="98">FBT</text>
 <wire x1="92.71" y1="118.872" x2="92.71" y2="119.888" width="0.1524" layer="98"/>
-<text x="17.272" y="124.714" size="1.778" layer="98">6V5</text>
-<text x="24.638" y="124.714" size="1.778" layer="98">120k</text>
-<text x="48.26" y="124.714" size="1.778" layer="98">22u</text>
-<text x="33.02" y="124.714" size="1.778" layer="98">120k</text>
-<wire x1="42.418" y1="125.73" x2="43.942" y2="125.73" width="0.1524" layer="98"/>
-<text x="17.272" y="122.174" size="1.778" layer="98">16V</text>
-<text x="24.638" y="122.174" size="1.778" layer="98">330k</text>
-<text x="48.26" y="122.174" size="1.778" layer="98">33u</text>
-<text x="40.64" y="122.174" size="1.778" layer="98">330k</text>
-<wire x1="34.798" y1="123.19" x2="36.322" y2="123.19" width="0.1524" layer="98"/>
+<text x="9.652" y="124.714" size="1.778" layer="98">6V5</text>
+<text x="17.018" y="124.714" size="1.778" layer="98">120k</text>
+<text x="43.18" y="124.714" size="1.778" layer="98">22u</text>
+<text x="27.94" y="124.714" size="1.778" layer="98">120k</text>
+<wire x1="37.338" y1="125.73" x2="38.862" y2="125.73" width="0.1524" layer="98"/>
+<text x="9.652" y="119.634" size="1.778" layer="98">16V</text>
+<text x="17.018" y="119.634" size="1.778" layer="98">330k</text>
+<text x="43.18" y="119.634" size="1.778" layer="98">33u</text>
+<text x="35.56" y="119.634" size="1.778" layer="98">330k</text>
+<wire x1="29.718" y1="120.65" x2="31.242" y2="120.65" width="0.1524" layer="98"/>
 <text x="81.788" y="111.506" size="1.778" layer="98">L</text>
 <text x="83.566" y="111.252" size="1.016" layer="98">MIN</text>
 <text x="86.868" y="111.506" size="1.778" layer="98">=</text>
@@ -9664,6 +9665,15 @@ Set VDD level via RFBT according VLED count</text>
 <text x="107.696" y="109.474" size="1.016" layer="98">IN,MAX</text>
 <text x="114.3" y="109.728" size="1.778" layer="98">1.1MHz</text>
 <text x="104.14" y="111.506" size="1.778" layer="98">.</text>
+<text x="9.652" y="122.174" size="1.778" layer="98">8V2</text>
+<text x="43.18" y="122.174" size="1.778" layer="98">22u</text>
+<wire x1="48.26" y1="132.08" x2="48.26" y2="116.84" width="0.1524" layer="98"/>
+<wire x1="48.768" y1="132.08" x2="48.768" y2="116.84" width="0.1524" layer="98"/>
+<text x="49.784" y="129.794" size="1.778" layer="98">Remark</text>
+<text x="49.784" y="122.174" size="1.778" layer="98">Vmax L1 22u</text>
+<text x="17.018" y="122.174" size="1.778" layer="98">158k4</text>
+<text x="27.94" y="122.174" size="1.778" layer="98">220k</text>
+<text x="35.56" y="122.174" size="1.778" layer="98">560k</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
