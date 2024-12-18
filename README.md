@@ -32,6 +32,7 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 ## How to build
 * Get your PCB:
   - [Aisler](https://aisler.net/p/RHHJMNNA)
+  - [PCBway](https://www.pcbway.com/project/shareproject/LightControl5C_13ccc4e5.html)
 * Order Components from:
   - [Reichelt](/bom/LightControl5C_Reichelt.csv)
   - [Mouser](/bom/LightControl5C_Mouser.csv)
