@@ -10,3 +10,23 @@ eagle/*.s#*
 eagle/*.b#*
 eagle/*.lck
 eagle/eagle.epf
+
+# MikroC
+#
+fw/**/*.workspace
+fw/**/*.log
+fw/**/*.bmk
+fw/**/*.brk
+fw/**/*.dbg
+fw/**/*.dct
+fw/**/*.dlt
+fw/**/*.hex
+fw/**/*.lst
+fw/**/*.dic
+fw/**/*_callertable.txt
+fw/**/*.user.dic
+fw/**/*.asm
+fw/**/*.c.ini
+fw/**/*.h.ini
+fw/**/*.cp
+fw/**/*.mcl
