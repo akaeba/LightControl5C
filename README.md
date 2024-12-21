@@ -58,3 +58,5 @@ Five microcontroller controlled output stages with an integrated voltage selecta
 * [LV3842: 4-V to 36-V, 600-mA, Synchronous Step-Down Converter](https://www.ti.com/lit/ds/symlink/lv3842.pdf)
 * [PIC12F675: 8-Pin, Flash-Based 8-Bit CMOS Microcontrollers](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/41190G.pdf)
 * [ULN2003: Seven Darlington arrays](https://www.st.com/resource/en/datasheet/uln2003.pdf)
+* [TPL7407LA:  30V 7-Channel Low Side Driver](https://www.ti.com/lit/ds/symlink/tpl7407la.pdf)
+
