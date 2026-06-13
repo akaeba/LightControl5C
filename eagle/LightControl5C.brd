@@ -2356,9 +2356,9 @@ weitere Informationen finden Sie unter  &lt;b&gt; &lt;font color=&quot;blue&quot
 <attribute name="VENDOR#" value="MURATA,GRM32ER61E226ME15#" x="22.225" y="7.62" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="19.685" y="6.985" size="0.8128" layer="25" font="vector" ratio="15" rot="R90"/>
 </element>
-<element name="L1" library="omcInductor" package="PISM" value="33µ" x="13.335" y="8.89" smashed="yes" rot="R270">
-<attribute name="DIST#REICHELT#" value="L-PISM 33µ" x="13.335" y="8.89" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VENDOR#" value="Fastron,PISM-330X-04" x="13.335" y="8.89" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="L1" library="omcInductor" package="PISM" value="150µ" x="13.335" y="8.89" smashed="yes" rot="R270">
+<attribute name="DIST#REICHELT#" value="L-PISM 150µ" x="13.335" y="8.89" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VENDOR#" value="Fastron,PISM-151X-04" x="13.335" y="8.89" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DIST#DIGIKEY#" value="" x="13.335" y="8.89" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="DIST#CONRAD#" value="" x="13.335" y="8.89" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="7.3025" y="12.3825" size="0.8128" layer="25" font="vector" ratio="15"/>
