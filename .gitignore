@@ -13,20 +13,35 @@ eagle/eagle.epf
 
 # MikroC
 #
-fw/**/*.workspace
-fw/**/*.log
-fw/**/*.bmk
-fw/**/*.brk
-fw/**/*.dbg
-fw/**/*.dct
-fw/**/*.dlt
-fw/**/*.hex
-fw/**/*.lst
-fw/**/*.dic
-fw/**/*_callertable.txt
-fw/**/*.user.dic
-fw/**/*.asm
-fw/**/*.c.ini
-fw/**/*.h.ini
-fw/**/*.cp
-fw/**/*.mcl
+fw/MikroC/**/*.workspace
+fw/MikroC/**/*.log
+fw/MikroC/**/*.bmk
+fw/MikroC/**/*.brk
+fw/MikroC/**/*.dbg
+fw/MikroC/**/*.dct
+fw/MikroC/**/*.dlt
+fw/MikroC/**/*.hex
+fw/MikroC/**/*.lst
+fw/MikroC/**/*.dic
+fw/MikroC/**/*_callertable.txt
+fw/MikroC/**/*.user.dic
+fw/MikroC/**/*.asm
+fw/MikroC/**/*.c.ini
+fw/MikroC/**/*.h.ini
+fw/MikroC/**/*.cp
+fw/MikroC/**/*.mcl
+
+# MPLAB X
+#   https://github.com/jharoian-mchp/MPLAB-X-gitignore/blob/main/X.gitignore
+#
+fw/MplabX/**/~*.*
+fw/MplabX/**/build/
+fw/MplabX/**/debug/
+fw/MplabX/**/dist/
+fw/MplabX/**/disassembly/
+fw/MplabX/**/.generated_files/
+fw/MplabX/**/nbproject/private/
+fw/MplabX/**/nbproject/*.mk
+fw/MplabX/**/nbproject/*.bash
+fw/MplabX/**/nbproject/Makefile-genesis.properties
+fw/MplabX/**/nbproject/queuelogs/
