@@ -7,16 +7,18 @@
  @maintainer: Andreas Kaeberlein
  @email:      andreas.kaeberlein@web.de
 
- @file:       lauflicht.c
+ @file:       lightChaser.c
  @date:       2024-07-11
  @see:        https://github.com/akaeba/LightControl5C
 
- @brief:
+ @brief:      lightChaser
+              running light with 500ms reside time
+              IDE: mikroC Pro for PIC 7.1.0
 *************************************************************************/
 
 /*
-Hints
-=====
+Config
+======
   * INTOSC         : 4MHz no clk output
   * WDT            : disabled
   * Power Up Timer : enabled
